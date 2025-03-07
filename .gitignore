@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+[submodule "RMS"]
+  path = RMS
+  url = https://github.com/rohansikder/RMS.git
+
