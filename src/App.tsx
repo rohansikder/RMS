@@ -63,7 +63,7 @@ function App() {
   };
 
   return (
-    <Router>
+    <Router basename="/RMS">
       {/* Render the Navbar with the current theme and toggle function. */}
       <Navbar toggleTheme={toggleTheme} theme={theme} />
       {/* Container for main page content rendered by routes. */}
