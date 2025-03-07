@@ -1,5 +1,5 @@
 // Import React and useState hook
-import React, { useState } from "react";
+import { useState } from "react";
 // Import MentionsInput and Mention for @mentions functionality
 import { MentionsInput, Mention } from "react-mentions";
 // Import Material UI components for UI elements
